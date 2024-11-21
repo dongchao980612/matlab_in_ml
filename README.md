@@ -7,9 +7,12 @@
 - 原仓库：[Matlab-Machine](https://github.com/Time9Y/Matlab-Machine/tree/main)
 - matlab 版本：R2017b
 
-
 ## 1、BP神经网络的数据回归分析预测
 
 ## 43、基于卷积神经网络的多输出数据回归预测
 
 > matlab版本太低，部分代码无法运行
+
+# 参考资料
+
+- [kdocs] https://www.kdocs.cn/l/cea8zH8081TH
